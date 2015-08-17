@@ -2,6 +2,7 @@
 
 Log meals to Jawbone Up from Android Wear. 
 Demonstration app using the Wearable data and messaging layers.
+App supports both Round and Square displays, including the Moto 360's 'spare tire'.  Ambient mode is supported.
 Data is synced with the wearable every 15 minutes using AlarmManager, and also
 updated on launch.
 API requests made with Retrofit.
