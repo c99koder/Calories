@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_wear_capabilities">
+        <item>update_calories</item>
+        <item>food_search</item>
+        <item>add_meal</item>
+    </string-array>
+</resources>
