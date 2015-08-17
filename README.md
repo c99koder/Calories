@@ -1,6 +1,10 @@
 # Calories
 
-Log meals to Jawbone Up from Android Wear
+Log meals to Jawbone Up from Android Wear. 
+Demonstration app using the Wearable data and messaging layers.
+Data is synced with the wearable every 15 minutes using AlarmManager, and also
+updated on launch.
+API requests made with Retrofit.
 
 ![wear screenshot](https://www.dropbox.com/s/zy8jmpkfp864zz2/device-2015-08-16-193108.png?dl=1)
 ![wear screenshot](https://www.dropbox.com/s/cr1kfr7pkahwprb/device-2015-08-16-193252.png?dl=1)
